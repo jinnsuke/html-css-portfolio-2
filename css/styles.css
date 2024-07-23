@@ -1,0 +1,115 @@
+.main-section {
+    background-color: #222831 !important;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.text, p {
+    color: white !important;
+}
+
+.blob-img {
+    width: auto;
+    height: 500px; /* Maintains aspect ratio */
+    border-radius: 50%;
+}
+
+h1 {
+    font-size: 80px !important;
+}
+
+h2 {
+    font-size: 70px !important;
+    text-align: center;
+    color: white;
+}
+
+h3 {
+    font-size: 40px !important;
+    text-align: center;
+    color: white;
+}
+
+.position-relative {
+    border: none !important;
+}
+
+#about-me p {
+    margin-top: 50px;  /* Add margin to the top of the paragraph */
+    font-size: 25px;
+}
+
+.btn {
+    background-color: #00ADB5;
+    color: white;
+    font-weight: bold;
+}
+
+.experience {
+    width: 100%;
+}
+
+.skill {
+    color: white !important;
+    text-align: left;
+}
+
+li {
+    color: white
+}
+
+.icon-square {
+    background-color: #00ADB5 !important; /* Updated background color */
+    width: 60px; /* Increase the size */
+    height: 60px; /* Increase the size */
+    border-radius: 50%; /* Ensure the background remains circular */
+    display: flex; /* Center the icon */
+    align-items: center; /* Center the icon vertically */
+    justify-content: center; /* Center the icon horizontally */
+}
+
+.icon-svg {
+    fill: white;
+}
+
+.col-lg-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.hobby-image {
+    width: 140px; /* Set the width to match your layout */
+    height: 140px; /* Set the height to match your layout */
+    margin-bottom: 1rem; /* Adds space below the image */
+}
+
+.d-flex.align-items-start {
+    display: flex;
+    align-items: center; /* Aligns items vertically center */
+    gap: 1rem; /* Adds consistent space between icon and text */
+}
+
+#footer {
+    background-color: #393E46;
+}
+
+.footer-text {
+    text-align: center;
+    color: white;
+}
+
+.hobby-description {
+    width: 100%; /* Ensures the paragraph takes full width of its container */
+    max-width: 300px; /* Adjust this value to make the text area thinner */
+    line-height: 1.6; /* Adjust the line height for more spacing between lines */
+    margin-top: 1rem; /* Adds space above the paragraph */
+    margin-bottom: 1rem; /* Adds space below the paragraph */
+  }
+  
+
+
+
+
+  
